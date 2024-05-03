@@ -20,7 +20,7 @@ require (
 	github.com/openzipkin/zipkin-go v0.4.0
 	github.com/oschwald/geoip2-golang v1.7.0
 	github.com/prometheus/client_golang v1.12.1
-	github.com/prometheus/client_model v0.2.0
+	github.com/prometheus/client_model v0.6.1
 	github.com/prometheus/common v0.34.0
 	go.etcd.io/etcd/api/v3 v3.5.4
 	go.etcd.io/etcd/client/v3 v3.5.4
@@ -28,7 +28,7 @@ require (
 	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
 	google.golang.org/api v0.75.0
 	google.golang.org/grpc v1.46.0
-	google.golang.org/protobuf v1.28.0
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.38.0
 	k8s.io/api v0.23.6
 	k8s.io/apimachinery v0.23.6
